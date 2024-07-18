@@ -19,6 +19,12 @@ const menuData: Menu[] = [
     path: "tel:+6472719727",
     newTab: false,
   }
+  {
+    id: 3,
+    title: "Email",
+    path: "mailto:paulciszko@gmail.com",
+    newTab: false,
+  }
 
 ];
 export default menuData;
