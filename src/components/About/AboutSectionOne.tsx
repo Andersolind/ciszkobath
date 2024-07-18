@@ -24,8 +24,14 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="Specializing in bathroom renovations"
+                paragraph="Looking to update your kitchen and bathroom to a modern style? Look no further than Ciszko Contracting, serving Hamilton and Ancaster.
+
+Specializing in bathroom renovations, we are dedicated to perfecting our craft. Our commitment to quality craftsmanship and customer satisfaction ensures stunning bathroom and kitchen designs using premium materials.
+
+At Ciszko Contracting, we prioritize reliability and honesty in managing budgets and timelines. With expertise in bathrooms, flooring, tiling, painting, kitchens, and more, we are the top choice for your renovation needs.
+
+Explore our custom bathroom designs tailored to your preferences. Contact us today to experience the best service in the area."
                 mb="44px"
               />
 
