@@ -18,7 +18,7 @@ const menuData: Menu[] = [
     title: "Phone",
     path: "tel:+6472719727",
     newTab: false,
-  }
+  },
   {
     id: 3,
     title: "Email",
