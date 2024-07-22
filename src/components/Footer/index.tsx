@@ -171,7 +171,7 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 className="hover:text-primary"
               >
-              By  Snapcheckit
+              By Snapcheckit
               </a>
             </p>
           </div>

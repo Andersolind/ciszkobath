@@ -12,7 +12,7 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Ciszko Contracting | Bathroom renovation | Ancaster",
+  title: "Bathroom renovation | Ancaster",
   description:"Ciszko Contracting specializes in bathroom renovations in Burlington, Oakville, Hamilton, Ancaster, Dundas, Waterdown"
   // other metadata
 };
@@ -23,12 +23,13 @@ export default function Home() {
       <ScrollUp />
       <Hero />
       <Features />
+      <Pricing/>
       {/* <Video />
       <Brands /> */}
       {/* <AboutSectionOne />
       <AboutSectionTwo /> */}
       {/* <Testimonials />
-      <Pricing />
+     
       <Blog />
       <Contact /> */}
     </>
